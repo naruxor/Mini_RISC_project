@@ -1,6 +1,6 @@
 # MiniRISC: A Custom 32-bit RISC Processor
 
-MinRISC (Minimal Simple RISC) is a custom-designed 32-bit RISC processor architecture built from the ground up, capable of performing a wide variety of arithmetic, logical, shift, and memory operations. It includes extended branching and jump capabilities, and has been successfully demonstrated on a Nexys 4 FPGA using programs like bubble sort and GCD.
+MinRISC (Minimal Simple RISC) is a custom-designed 32-bit RISC processor architecture built from the ground up, capable of performing a wide variety of arithmetic, logical, shift, and memory operations. It includes extended branching and jump capabilities, and has been successfully demonstrated on an FPGA using programs like bubble sort and GCD.
 
 ## Features
 
