@@ -81,12 +81,5 @@ My Codes were tested upon a Digilent Nexys 4 DDR Artix-7 FPGA.
 * Support for floating-point operations
 * Better assembler error handling and pseudo-instruction support
 
-## Author
-
-[**Sumit Kumar**](https://github.com/SumitKumar-17) (22CS30056)
-Third-year Undergraduate at IIT Kharagpur
-
-[**Aviral Singh**](https://github.com/aviral759) (22CS30015) 
-Third-year Undergraduate at IIT Kharagpur
 
 > *"Built from transistor logic to full assembler support. Designed for learning, optimized for insight."*
